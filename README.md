@@ -2,4 +2,4 @@
 daily test
 
 
-2 hello world
+1 hello world
